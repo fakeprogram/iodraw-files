@@ -7,7 +7,7 @@
         <mxCell id="pDQzEI5VGs3SpPZCTVMM-2" value="store" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="170" y="160" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pDQzEI5VGs3SpPZCTVMM-3" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="pDQzEI5VGs3SpPZCTVMM-3" value="product" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="375" y="170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pDQzEI5VGs3SpPZCTVMM-4" value="Entity" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
