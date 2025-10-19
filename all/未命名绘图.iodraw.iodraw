@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pDQzEI5VGs3SpPZCTVMM-1" value="&lt;span style=&quot;color: rgb(28, 31, 35); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;[store] &amp;lt;1---N&amp;gt; [register]&#xa;[store] &amp;lt;1---N&amp;gt; [transaction]&#xa;[register] &amp;lt;1---N&amp;gt; [transaction]&#xa;[cashier] &amp;lt;1---N&amp;gt; [transaction]&#xa;[transaction] &amp;lt;1---N&amp;gt; [transaction_detail]&#xa;[product] &amp;lt;1---N&amp;gt; [transaction_detail]&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="350" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
