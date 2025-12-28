@@ -126,7 +126,7 @@
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-39" value="save(entity)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="XBpurkG0gDDyz5Ts5b3s-34">
           <mxGeometry x="282" y="30" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XBpurkG0gDDyz5Ts5b3s-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="XBpurkG0gDDyz5Ts5b3s-34">
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="XBpurkG0gDDyz5Ts5b3s-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="231.5" y="80" as="sourcePoint" />
             <mxPoint x="81.5" y="80" as="targetPoint" />
@@ -137,6 +137,9 @@
         </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-24" value="失败信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="538" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-41" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="748" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
