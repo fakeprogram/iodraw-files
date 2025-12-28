@@ -20,7 +20,7 @@
           <mxGeometry x="944.5" y="268" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-13" value="是否已选择同一课程" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="471" y="387.5" width="114" height="79" as="geometry" />
+          <mxGeometry x="471" y="371" width="81" height="95.5" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-16" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="849" y="306" width="30" height="26" as="geometry" />
