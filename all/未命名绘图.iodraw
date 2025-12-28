@@ -7,14 +7,11 @@
         <mxCell id="5PztCZIkZgaDSTOB9WMp-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="187" y="258" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8TVz1ODPwAiqpzNYEC_P-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5PztCZIkZgaDSTOB9WMp-4" target="8TVz1ODPwAiqpzNYEC_P-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-4" value="从选课名单移除学生" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="286" y="252.5" width="115" height="41" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="747.75" y="590" width="30" height="30" as="geometry" />
+          <mxGeometry x="1251" y="258.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TVz1ODPwAiqpzNYEC_P-2" target="8TVz1ODPwAiqpzNYEC_P-3">
           <mxGeometry relative="1" as="geometry" />
@@ -57,7 +54,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-10" value="补位成功提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="712.75" y="503" width="100" height="41" as="geometry" />
+          <mxGeometry x="1080" y="253" width="100" height="41" as="geometry" />
         </mxCell>
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8TVz1ODPwAiqpzNYEC_P-3" target="8TVz1ODPwAiqpzNYEC_P-4">
           <mxGeometry relative="1" as="geometry" />
