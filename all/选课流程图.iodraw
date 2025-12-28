@@ -55,8 +55,8 @@
         <mxCell id="5PztCZIkZgaDSTOB9WMp-33" value="重复提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="537" y="571" width="40" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="5PztCZIkZgaDSTOB9WMp-37" value="排队提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="953" y="225" width="100" height="36" as="geometry" />
+        <mxCell id="5PztCZIkZgaDSTOB9WMp-37" value="正在排队提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="955" y="187" width="100" height="36" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-40" value="提示加入排队" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1096" y="553" width="100" height="31" as="geometry" />
