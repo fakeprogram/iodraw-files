@@ -165,6 +165,9 @@
             <mxPoint x="81.5" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-51" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="XBpurkG0gDDyz5Ts5b3s-34">
+          <mxGeometry x="127" y="190" width="50" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-44" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="XBpurkG0gDDyz5Ts5b3s-15">
           <mxGeometry x="96" y="280" width="50" height="30" as="geometry" />
         </mxCell>
@@ -176,9 +179,6 @@
         </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-49" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="878" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XBpurkG0gDDyz5Ts5b3s-51" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="385" y="878" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
