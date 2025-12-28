@@ -132,14 +132,17 @@
             <mxPoint x="81.5" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-41" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="XBpurkG0gDDyz5Ts5b3s-34">
+          <mxGeometry x="127" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-22" value="[重复/已经排队]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="335" y="488" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-24" value="失败信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="538" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XBpurkG0gDDyz5Ts5b3s-41" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="375" y="748" width="50" height="30" as="geometry" />
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0.738;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XBpurkG0gDDyz5Ts5b3s-41" target="XBpurkG0gDDyz5Ts5b3s-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
