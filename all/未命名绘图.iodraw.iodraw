@@ -63,10 +63,11 @@
             <mxPoint x="60" y="50" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XBpurkG0gDDyz5Ts5b3s-18" value="{constraint spec.}" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-18" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.625" y="40" width="160" relative="1" as="geometry">
             <mxPoint x="330" y="620" as="sourcePoint" />
             <mxPoint x="490" y="620" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
