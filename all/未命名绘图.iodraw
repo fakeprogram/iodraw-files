@@ -13,51 +13,20 @@
         <mxCell id="5PztCZIkZgaDSTOB9WMp-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1251" y="258.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8TVz1ODPwAiqpzNYEC_P-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TVz1ODPwAiqpzNYEC_P-2" target="8TVz1ODPwAiqpzNYEC_P-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-2" value="从课表移除课程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="493" y="256" width="100" height="44" as="geometry" />
         </mxCell>
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-3" value="成功提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="642" y="257.5" width="100" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="8TVz1ODPwAiqpzNYEC_P-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TVz1ODPwAiqpzNYEC_P-4" target="5PztCZIkZgaDSTOB9WMp-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="891" y="370" />
-              <mxPoint x="891" y="604" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8TVz1ODPwAiqpzNYEC_P-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8TVz1ODPwAiqpzNYEC_P-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="763" y="421" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-4" value="课程等待队列非空" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="765" y="253" width="125.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="8TVz1ODPwAiqpzNYEC_P-6" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="850" y="345" width="30" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="8TVz1ODPwAiqpzNYEC_P-8" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="763" y="387" width="30" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="8TVz1ODPwAiqpzNYEC_P-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TVz1ODPwAiqpzNYEC_P-9" target="8TVz1ODPwAiqpzNYEC_P-10">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-9" value="队首自动补位" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="933" y="258" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="8TVz1ODPwAiqpzNYEC_P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TVz1ODPwAiqpzNYEC_P-10" target="5PztCZIkZgaDSTOB9WMp-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-10" value="补位成功提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1080" y="253" width="100" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="8TVz1ODPwAiqpzNYEC_P-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8TVz1ODPwAiqpzNYEC_P-3" target="8TVz1ODPwAiqpzNYEC_P-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
