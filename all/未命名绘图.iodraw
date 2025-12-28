@@ -55,6 +55,63 @@
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-25" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="778" y="317" width="30" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-26" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="776" y="243" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="8TVz1ODPwAiqpzNYEC_P-28" target="8TVz1ODPwAiqpzNYEC_P-30" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-28" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="179" y="409.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="8TVz1ODPwAiqpzNYEC_P-30" target="8TVz1ODPwAiqpzNYEC_P-33" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-30" value="从选课名单移除学生" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="266" y="387" width="68" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-31" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1072" y="409.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="8TVz1ODPwAiqpzNYEC_P-33" target="8TVz1ODPwAiqpzNYEC_P-34" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-33" value="从课表移除课程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="409" y="402.25" width="60" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-34" value="成功提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="529" y="404.25" width="61" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="8TVz1ODPwAiqpzNYEC_P-37" target="8TVz1ODPwAiqpzNYEC_P-39" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="8TVz1ODPwAiqpzNYEC_P-37" target="8TVz1ODPwAiqpzNYEC_P-31" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-37" value="课程等待队列非空" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="650" y="394.5" width="118" height="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="8TVz1ODPwAiqpzNYEC_P-39" target="8TVz1ODPwAiqpzNYEC_P-41" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-39" value="队首自动补位" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="821" y="407.25" width="75.25" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="8TVz1ODPwAiqpzNYEC_P-41" target="8TVz1ODPwAiqpzNYEC_P-31" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-41" value="补位成功提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="945" y="404.25" width="78" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="8TVz1ODPwAiqpzNYEC_P-34" target="8TVz1ODPwAiqpzNYEC_P-37" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-43" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="468.25" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-44" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="768" y="394.25" width="30" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
