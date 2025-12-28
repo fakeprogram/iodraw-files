@@ -68,7 +68,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-4" value="选择课程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="182" y="407" width="100" height="41" as="geometry" />
+          <mxGeometry x="157" y="408.5" width="100" height="41" as="geometry" />
         </mxCell>
         <mxCell id="EvOP1fHe3VuerYLyqenV-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;" edge="1" parent="1" source="5PztCZIkZgaDSTOB9WMp-4" target="5PztCZIkZgaDSTOB9WMp-5">
           <mxGeometry relative="1" as="geometry">
