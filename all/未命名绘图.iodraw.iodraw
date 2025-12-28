@@ -102,6 +102,17 @@
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-27" value="[未重复/无排队]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="335" y="698" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="395" y="710" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-29" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="XBpurkG0gDDyz5Ts5b3s-28" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="690" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="430" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
