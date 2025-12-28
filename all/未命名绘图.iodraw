@@ -28,6 +28,9 @@
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-3" value="成功提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="537" y="253" width="61" height="41" as="geometry" />
         </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8TVz1ODPwAiqpzNYEC_P-4" target="8TVz1ODPwAiqpzNYEC_P-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-4" value="课程等待队列非空" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="658" y="243.25" width="118" height="59.5" as="geometry" />
         </mxCell>
