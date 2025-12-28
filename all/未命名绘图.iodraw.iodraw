@@ -99,6 +99,9 @@
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-24" value="失败信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="538" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="698" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
