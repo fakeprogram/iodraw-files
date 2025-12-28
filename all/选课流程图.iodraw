@@ -37,9 +37,6 @@
         <mxCell id="5PztCZIkZgaDSTOB9WMp-12" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="944.5" y="268" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5PztCZIkZgaDSTOB9WMp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5PztCZIkZgaDSTOB9WMp-13" target="5PztCZIkZgaDSTOB9WMp-33" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-13" value="是否已选择同一课程" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="471" y="387.5" width="79" height="79" as="geometry" />
         </mxCell>
