@@ -10,7 +10,7 @@
             <mxPoint x="329.5" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XBpurkG0gDDyz5Ts5b3s-2" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=default;fillStyle=auto;noLabel=0;connectable=1;portConstraintRotation=0;" vertex="1" parent="1">
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-2" value="前端" style="shape=umlLifeline;perimeter=none;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};strokeColor=default;fillStyle=auto;noLabel=0;connectable=1;portConstraintRotation=0;snapToPoint=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="100" height="510" as="geometry" />
         </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
