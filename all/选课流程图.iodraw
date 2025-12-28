@@ -41,7 +41,7 @@
           <mxGeometry x="711" y="174" width="30" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-24" value="更新容量" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="907" y="454.5" width="100" height="47" as="geometry" />
+          <mxGeometry x="682" y="405.5" width="71" height="47" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-26" value="更新学生选课列表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="907" y="529" width="101" height="49" as="geometry" />
