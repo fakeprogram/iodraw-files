@@ -67,9 +67,6 @@
         <mxCell id="5PztCZIkZgaDSTOB9WMp-28" value="成功提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1078" y="401.5" width="100" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="EvOP1fHe3VuerYLyqenV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5PztCZIkZgaDSTOB9WMp-33" target="5PztCZIkZgaDSTOB9WMp-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-33" value="重复提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="642" y="513" width="40" height="83" as="geometry" />
         </mxCell>
@@ -119,6 +116,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EvOP1fHe3VuerYLyqenV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.333;entryY=-0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5PztCZIkZgaDSTOB9WMp-28" target="5PztCZIkZgaDSTOB9WMp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EvOP1fHe3VuerYLyqenV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5PztCZIkZgaDSTOB9WMp-33" target="5PztCZIkZgaDSTOB9WMp-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
