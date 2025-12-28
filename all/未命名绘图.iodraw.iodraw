@@ -90,6 +90,9 @@
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-22" value="[重复/已经排队]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="335" y="488" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-24" value="msg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="365" y="538" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
