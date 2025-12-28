@@ -111,7 +111,7 @@
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-34" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=70;height=30;" vertex="1" parent="XBpurkG0gDDyz5Ts5b3s-15">
           <mxGeometry x="154" y="210" width="464" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="XBpurkG0gDDyz5Ts5b3s-36" value="[constraint2]" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;" vertex="1" parent="XBpurkG0gDDyz5Ts5b3s-34">
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-36" value="" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;html=1;whiteSpace=wrap;" vertex="1" parent="XBpurkG0gDDyz5Ts5b3s-34">
           <mxGeometry y="125" width="460" height="10" as="geometry" />
         </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-22" value="[重复/已经排队]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -119,6 +119,9 @@
         </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-24" value="失败信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="538" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="688" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
