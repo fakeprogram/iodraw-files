@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5PztCZIkZgaDSTOB9WMp-1" target="5PztCZIkZgaDSTOB9WMp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="187" y="258" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8TVz1ODPwAiqpzNYEC_P-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5PztCZIkZgaDSTOB9WMp-4" target="8TVz1ODPwAiqpzNYEC_P-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-4" value="从选课名单移除学生" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="274" y="235.75" width="68" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1251" y="258.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="1089" y="263.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-2" value="从课表移除课程" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="416" y="254.5" width="60" height="44" as="geometry" />
