@@ -123,14 +123,14 @@
             <mxPoint x="431.5" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-39" value="save(entity)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="XBpurkG0gDDyz5Ts5b3s-34">
+          <mxGeometry x="282" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-22" value="[重复/已经排队]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="335" y="488" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-24" value="失败信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="538" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XBpurkG0gDDyz5Ts5b3s-39" value="save(entity)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="505" y="728" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
