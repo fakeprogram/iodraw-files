@@ -19,7 +19,7 @@
             <mxPoint x="479.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XBpurkG0gDDyz5Ts5b3s-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="XBpurkG0gDDyz5Ts5b3s-3" target="XBpurkG0gDDyz5Ts5b3s-2">
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="XBpurkG0gDDyz5Ts5b3s-3" target="XBpurkG0gDDyz5Ts5b3s-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-3" value="Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -95,6 +95,9 @@
         </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-24" value="msg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="538" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="548" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
