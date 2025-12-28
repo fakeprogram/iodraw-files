@@ -34,9 +34,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XBpurkG0gDDyz5Ts5b3s-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="XBpurkG0gDDyz5Ts5b3s-4" target="XBpurkG0gDDyz5Ts5b3s-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-4" value="Service" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="430" y="170" width="100" height="820" as="geometry" />
         </mxCell>
@@ -162,6 +159,12 @@
             <mxPoint x="231.5" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="XBpurkG0gDDyz5Ts5b3s-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="231.5" y="210" as="sourcePoint" />
+            <mxPoint x="81.5" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-44" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="XBpurkG0gDDyz5Ts5b3s-15">
           <mxGeometry x="96" y="280" width="50" height="30" as="geometry" />
         </mxCell>
@@ -173,6 +176,9 @@
         </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-49" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="535" y="878" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XBpurkG0gDDyz5Ts5b3s-51" value="成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385" y="878" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
