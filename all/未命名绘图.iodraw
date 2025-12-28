@@ -23,10 +23,10 @@
           <mxGeometry x="657" y="246.75" width="118" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-9" value="队首自动补位" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="933" y="258" width="100" height="35" as="geometry" />
+          <mxGeometry x="876.75" y="261" width="75.25" height="35" as="geometry" />
         </mxCell>
         <mxCell id="8TVz1ODPwAiqpzNYEC_P-10" value="补位成功提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="253" width="100" height="41" as="geometry" />
+          <mxGeometry x="1044" y="258.5" width="100" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
