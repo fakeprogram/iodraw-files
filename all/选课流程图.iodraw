@@ -43,6 +43,9 @@
         <mxCell id="5PztCZIkZgaDSTOB9WMp-21" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="685.5" y="179" width="30" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="EvOP1fHe3VuerYLyqenV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5PztCZIkZgaDSTOB9WMp-24" target="5PztCZIkZgaDSTOB9WMp-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-24" value="更新容量" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="644.5" y="402.5" width="71" height="47" as="geometry" />
         </mxCell>
