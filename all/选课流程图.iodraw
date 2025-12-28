@@ -46,7 +46,7 @@
         <mxCell id="5PztCZIkZgaDSTOB9WMp-24" value="更新容量" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="690.5" y="405.5" width="71" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="5PztCZIkZgaDSTOB9WMp-26" value="更新学生选课列表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="5PztCZIkZgaDSTOB9WMp-26" value="更新学生选课列表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;textDirection=vertical-rl;" parent="1" vertex="1">
           <mxGeometry x="813" y="404.5" width="101" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-27" value="更新课程选课名单" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
