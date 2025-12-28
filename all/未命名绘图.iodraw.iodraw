@@ -75,9 +75,10 @@
           <mxGeometry x="94" y="490" width="640" height="190" as="geometry" />
         </mxCell>
         <mxCell id="XBpurkG0gDDyz5Ts5b3s-21" value="{constraint spec.}" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;" edge="1" parent="XBpurkG0gDDyz5Ts5b3s-15">
-          <mxGeometry width="160" relative="1" as="geometry">
+          <mxGeometry x="-0.5006" y="-77" width="160" relative="1" as="geometry">
             <mxPoint x="136.28571428571422" y="155" as="sourcePoint" />
             <mxPoint x="6" y="95" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
