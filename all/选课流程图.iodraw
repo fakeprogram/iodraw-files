@@ -68,7 +68,7 @@
           <mxGeometry x="1078" y="401.5" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-33" value="重复提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;textDirection=vertical-rl;" parent="1" vertex="1">
-          <mxGeometry x="642" y="513" width="40" height="83" as="geometry" />
+          <mxGeometry x="808" y="509" width="40" height="83" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-37" value="正在排队提示" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="801" y="187" width="100" height="36" as="geometry" />
