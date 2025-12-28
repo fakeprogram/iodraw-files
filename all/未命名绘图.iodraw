@@ -8,7 +8,7 @@
           <mxGeometry x="187" y="258" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-4" value="从选课名单移除学生" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="286" y="252.5" width="115" height="41" as="geometry" />
+          <mxGeometry x="306" y="252.5" width="68" height="74.5" as="geometry" />
         </mxCell>
         <mxCell id="5PztCZIkZgaDSTOB9WMp-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1251" y="258.5" width="30" height="30" as="geometry" />
