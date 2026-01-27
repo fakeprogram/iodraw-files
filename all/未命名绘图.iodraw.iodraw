@@ -472,6 +472,9 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-247" value="矩阵乘法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-248" value="逐点相乘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="715" y="48" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
