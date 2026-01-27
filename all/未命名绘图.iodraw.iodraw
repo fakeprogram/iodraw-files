@@ -188,6 +188,9 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-104" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="520" y="385" width="100" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-105" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Q7_KlunWYmk2qG01OEF6-104">
+          <mxGeometry x="20" width="80" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-106" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Q7_KlunWYmk2qG01OEF6-104">
           <mxGeometry x="10" y="17.5" width="80" height="80" as="geometry" />
         </mxCell>
@@ -207,9 +210,6 @@
               <mxPoint x="170" y="495" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-105" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="370" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
