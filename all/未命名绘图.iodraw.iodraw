@@ -436,8 +436,8 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-216" value="主网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-217" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="795" y="88" width="50" height="30" as="geometry" />
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-218" value="主网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
