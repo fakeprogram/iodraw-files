@@ -436,8 +436,11 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-216" value="主网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-218" value="噪声过滤模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="255" y="240" width="120" height="30" as="geometry" />
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-218" value="噪声过滤模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="275" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-219" value="噪声过滤模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
