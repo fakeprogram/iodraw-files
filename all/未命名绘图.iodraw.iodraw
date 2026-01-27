@@ -217,7 +217,7 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Q7_KlunWYmk2qG01OEF6-115" target="Q7_KlunWYmk2qG01OEF6-122" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="643.66" y="400" />
+              <mxPoint x="623" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -233,7 +233,7 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" source="Q7_KlunWYmk2qG01OEF6-119" target="Q7_KlunWYmk2qG01OEF6-122" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="643.66" y="455" />
+              <mxPoint x="623" y="455" />
             </Array>
           </mxGeometry>
         </mxCell>
