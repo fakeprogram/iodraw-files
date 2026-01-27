@@ -298,7 +298,7 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-142" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=none;fillColor=#b0e3e6;" vertex="1" parent="1">
           <mxGeometry x="80" y="630" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-149" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-149" value="" style="group;fillColor=none;fillStyle=auto;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="180" y="650" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-143" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q7_KlunWYmk2qG01OEF6-149">
