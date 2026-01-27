@@ -473,7 +473,10 @@
           <mxGeometry x="740" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-248" value="逐点相乘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="715" y="48" width="70" height="30" as="geometry" />
+          <mxGeometry x="740" y="48" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-249" value="&lt;span style=&quot;font-size:14.0pt;font-family:&amp;quot;Times New Roman&amp;quot;,serif;&lt;br/&gt;mso-fareast-font-family:宋体;position:relative;top:3.0pt;mso-text-raise:-3.0pt;&lt;br/&gt;mso-ligatures:none;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot; lang=&quot;EN-US&quot;&gt;&lt;img src=&quot;data:image/png;base64,R0lGODlhKgAWAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAEABQApAA0AhAAAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADo6ZjpmkDpmtjqQ22YAAGY6AGY6Zma222a2/5A6AJBmOpBmZrbb/7b//9uQOtu2Ztv///+2Zv/bkP/btv//tv//2wECAwWLICByTiSeaKquY4lyUxCYbF3DMg1sSqXNLA+lorowVjwfMPXTpTySgQWFWbKaKmxQUpgCfhDb13rSsjoOQ0aDOIrNZfKq0yAgFmIRXC9f/bp5Y058gyp0dgeBe4I2dGobbXmLiydQanxuNZMBmU9cXiJVhSg/mR4TCDIBAgmgIh0PriJGK6epMqwWIQA7&quot; height=&quot;22&quot; width=&quot;42&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;&lt;br/&gt;font-family:楷体;mso-bidi-font-family:楷体;mso-font-kerning:1.0pt;mso-ansi-language:&lt;br/&gt;EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA&quot;&gt;卷积&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="83" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
