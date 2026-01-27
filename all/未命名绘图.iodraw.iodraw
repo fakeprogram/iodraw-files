@@ -77,11 +77,6 @@
             <mxPoint x="210" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q7_KlunWYmk2qG01OEF6-150">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="70" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.563;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="Q7_KlunWYmk2qG01OEF6-11" target="Q7_KlunWYmk2qG01OEF6-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -321,7 +316,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-150" value="" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="70" width="20" height="20" as="geometry" />
+          <mxGeometry x="190" y="60" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
