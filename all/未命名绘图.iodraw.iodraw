@@ -476,7 +476,10 @@
           <mxGeometry x="740" y="48" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-250" value="1X1卷积" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="735" y="78" width="70" height="30" as="geometry" />
+          <mxGeometry x="740" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-251" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="740" y="130" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
