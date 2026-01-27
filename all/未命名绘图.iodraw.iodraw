@@ -423,7 +423,7 @@
           <mxGeometry x="990" y="360" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-207" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjIwMCIgd2lkdGg9IjIwMCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTAyNCAxMDI0IiBjbGFzcz0iaWNvbiI+PHBhdGggZD0iTTUxMiA5MzguNjY2NjY3QzI3Ni4zNTIgOTM4LjY2NjY2NyA4NS4zMzMzMzMgNzQ3LjY0OCA4NS4zMzMzMzMgNTEyUzI3Ni4zNTIgODUuMzMzMzMzIDUxMiA4NS4zMzMzMzNzNDI2LjY2NjY2NyAxOTEuMDE4NjY3IDQyNi42NjY2NjcgNDI2LjY2NjY2Ny0xOTEuMDE4NjY3IDQyNi42NjY2NjctNDI2LjY2NjY2NyA0MjYuNjY2NjY3eiBtLTE3MC42NjY2NjctMzQxLjMzMzMzNHY4NS4zMzMzMzRoMzQxLjMzMzMzNHYtODUuMzMzMzM0SDM0MS4zMzMzMzN6IG0wLTEyOGE2NCA2NCAwIDEgMCAwLTEyOCA2NCA2NCAwIDAgMCAwIDEyOHogbTM0MS4zMzMzMzQgMGE2NCA2NCAwIDEgMCAwLTEyOCA2NCA2NCAwIDAgMCAwIDEyOHoiLz48L3N2Zz4=;" vertex="1" parent="1">
-          <mxGeometry x="970" y="500" width="30" height="30" as="geometry" />
+          <mxGeometry x="990" y="420" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
