@@ -430,8 +430,8 @@
             <mxPoint x="790" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-215" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="745" y="-82" width="50" height="30" as="geometry" />
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-215" value="引导网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-40" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
