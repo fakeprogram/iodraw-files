@@ -303,7 +303,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-150" value="" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="135" width="20" height="20" as="geometry" />
+          <mxGeometry x="770" y="10" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-156" value="MSE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#feebb4;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="450" y="230" width="140" height="40" as="geometry" />
