@@ -445,8 +445,8 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-220" value="协同关系模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="590" y="320" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-221" value="噪声过滤模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="320" y="560" width="100" height="30" as="geometry" />
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-221" value="时域注意力模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="315" y="560" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
