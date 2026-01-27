@@ -37,8 +37,8 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q7_KlunWYmk2qG01OEF6-14" target="Q7_KlunWYmk2qG01OEF6-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#999999;fillColor=#ffcccc;" vertex="1" parent="1">
-          <mxGeometry x="384.50000000000006" y="-5" width="50" height="30" as="geometry" />
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-14" value="描述文本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#999999;fillColor=#ffcccc;" vertex="1" parent="1">
+          <mxGeometry x="374.50000000000006" y="-5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-15" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0;strokeColor=#999999;fillColor=#cce5ff;" vertex="1" parent="1">
           <mxGeometry x="224" y="35" width="216" height="240" as="geometry" />
