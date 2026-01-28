@@ -16,7 +16,7 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-14" value="描述文本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#999999;fillColor=#ffcccc;" parent="1" vertex="1">
           <mxGeometry x="374.50000000000006" y="-5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-15" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=#999999;fillColor=#cce5ff;shadow=1;" parent="1" vertex="1">
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-15" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;strokeColor=#999999;fillColor=#cce5ff;shadow=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="224" y="35" width="216" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Q7_KlunWYmk2qG01OEF6-18" target="Q7_KlunWYmk2qG01OEF6-31" edge="1">
