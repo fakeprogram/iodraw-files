@@ -13,7 +13,7 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Q7_KlunWYmk2qG01OEF6-14" target="Q7_KlunWYmk2qG01OEF6-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-14" value="描述文本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#999999;fillColor=#ffcccc;" parent="1" vertex="1">
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-14" value="描述文本" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="374.50000000000006" y="-5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-15" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0;strokeColor=default;fillColor=#cce5ff;shadow=1;glass=0;" parent="1" vertex="1">
