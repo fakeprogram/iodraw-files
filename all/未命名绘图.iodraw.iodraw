@@ -518,7 +518,7 @@
           <mxGeometry x="-160" y="360" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="J0NYMvSW9EHz46wMb6rE-6" value="MSE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="460" y="230" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
