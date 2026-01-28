@@ -517,8 +517,8 @@
         <mxCell id="J0NYMvSW9EHz46wMb6rE-5" value="MSE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#feebb4;strokeColor=#999999;" vertex="1" parent="1">
           <mxGeometry x="-160" y="360" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="J0NYMvSW9EHz46wMb6rE-6" value="MSE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="230" width="120" height="40" as="geometry" />
+        <mxCell id="J0NYMvSW9EHz46wMb6rE-6" value="MSE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#feebb4;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
