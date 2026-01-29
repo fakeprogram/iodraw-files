@@ -568,46 +568,6 @@
         <mxCell id="sEsTtwDYVjWtcfYk2mIZ-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;container=0;shadow=0;" vertex="1" parent="sEsTtwDYVjWtcfYk2mIZ-22">
           <mxGeometry x="60" y="60" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sEsTtwDYVjWtcfYk2mIZ-58" value="A" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="79" y="780" width="71" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="sEsTtwDYVjWtcfYk2mIZ-59" value="B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="879" width="69" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="sEsTtwDYVjWtcfYk2mIZ-60" value="C" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="139" y="879" width="70" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="sEsTtwDYVjWtcfYk2mIZ-61" value="D" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="79" y="978" width="70" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="sEsTtwDYVjWtcfYk2mIZ-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sEsTtwDYVjWtcfYk2mIZ-58" target="sEsTtwDYVjWtcfYk2mIZ-59">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="55" y="854" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sEsTtwDYVjWtcfYk2mIZ-63" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="sEsTtwDYVjWtcfYk2mIZ-58" target="sEsTtwDYVjWtcfYk2mIZ-60">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="174" y="854" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sEsTtwDYVjWtcfYk2mIZ-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.08;entryY=0;rounded=0;" edge="1" parent="1" source="sEsTtwDYVjWtcfYk2mIZ-59" target="sEsTtwDYVjWtcfYk2mIZ-61">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="55" y="953" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sEsTtwDYVjWtcfYk2mIZ-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.93;entryY=0;rounded=0;" edge="1" parent="1" source="sEsTtwDYVjWtcfYk2mIZ-60" target="sEsTtwDYVjWtcfYk2mIZ-61">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="174" y="953" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
