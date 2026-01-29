@@ -246,7 +246,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-142" value="CP Block" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=none;fillColor=#b0e3e6;shadow=1;" parent="1" vertex="1">
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-142" value="CP Block" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=none;fillColor=#d5e6e7;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="590" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="Q7_KlunWYmk2qG01OEF6-150" edge="1">
