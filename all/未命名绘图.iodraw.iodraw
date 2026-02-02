@@ -489,6 +489,15 @@
         <mxCell id="sEsTtwDYVjWtcfYk2mIZ-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;container=0;shadow=0;" parent="sEsTtwDYVjWtcfYk2mIZ-22" vertex="1">
           <mxGeometry x="60" y="60" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="270" as="sourcePoint" />
+            <mxPoint x="370" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-3" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="oaOpCkF5nLg5VQvfGM1O-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
