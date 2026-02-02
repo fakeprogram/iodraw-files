@@ -536,7 +536,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-35" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="600" width="30" height="30" as="geometry" />
+          <mxGeometry x="390" y="410" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
