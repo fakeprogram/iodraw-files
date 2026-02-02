@@ -560,8 +560,8 @@
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-90" value="加速度序列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="-160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-91" value="梯度图序列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=ltr;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="200" width="80" height="30" as="geometry" />
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-91" value="梯度图序列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
