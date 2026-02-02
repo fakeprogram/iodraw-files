@@ -505,8 +505,8 @@
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-115" value="···" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" vertex="1" parent="oaOpCkF5nLg5VQvfGM1O-116">
           <mxGeometry y="90" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-123" value="G&lt;sub&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="-250" y="468" width="40" height="30" as="geometry" />
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-123" value="G&lt;sub style=&quot;font-size: 15px;&quot;&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=2;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="463" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
