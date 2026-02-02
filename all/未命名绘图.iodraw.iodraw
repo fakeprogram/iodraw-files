@@ -511,8 +511,8 @@
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-123" value="G&lt;sub style=&quot;font-size: 15px;&quot;&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=3;fontSize=15;" vertex="1" parent="oaOpCkF5nLg5VQvfGM1O-125">
           <mxGeometry x="40" y="50" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-126" value="A&lt;sub&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-125" y="138" width="30" height="30" as="geometry" />
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-126" value="A&lt;sub&gt;i&lt;/sub&gt;&lt;sup&gt;raw&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="138" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
