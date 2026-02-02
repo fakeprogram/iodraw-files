@@ -490,7 +490,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="690" y="-40" width="220" height="310" as="geometry" />
+          <mxGeometry x="660" y="-40" width="220" height="310" as="geometry" />
         </mxCell>
         <mxCell id="J0NYMvSW9EHz46wMb6rE-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=3;strokeColor=#f2dbc5;strokeWidth=2;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
           <mxGeometry width="220" height="310" as="geometry" />
@@ -548,6 +548,9 @@
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-286" value="：卷积池化模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
           <mxGeometry x="100" y="278" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-48" value="V" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="359.9999999999999" y="190" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
