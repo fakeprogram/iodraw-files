@@ -506,7 +506,10 @@
           <mxGeometry y="90" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-123" value="G&lt;sub style=&quot;font-size: 15px;&quot;&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=3;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="340" width="40" height="40" as="geometry" />
+          <mxGeometry x="-130" y="330" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-124" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="310" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
