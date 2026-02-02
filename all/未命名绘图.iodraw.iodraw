@@ -261,12 +261,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-181" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="560" y="630" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-178" value="" style="ellipse;fillColor=strokeColor;html=1;container=0;" parent="Q7_KlunWYmk2qG01OEF6-181" vertex="1">
-          <mxGeometry x="7.5" y="7.5" width="5" height="5" as="geometry" />
-        </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Q7_KlunWYmk2qG01OEF6-148" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="650" as="targetPoint" />
@@ -544,7 +538,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-32" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="210" width="30" height="30" as="geometry" />
+          <mxGeometry x="580" y="850" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
