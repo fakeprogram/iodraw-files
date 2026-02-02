@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Q7_KlunWYmk2qG01OEF6-2" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e8f1f2;strokeColor=none;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="20" y="-40" width="580" height="320" as="geometry" />
+          <mxGeometry x="20" y="-40" width="630" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-13" value="Encoder" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;fillColor=#cce5ff;strokeColor=default;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="-10" width="66.67" height="40" as="geometry" />
@@ -215,19 +215,6 @@
         </mxCell>
         <mxCell id="sEsTtwDYVjWtcfYk2mIZ-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Q7_KlunWYmk2qG01OEF6-150" target="Q7_KlunWYmk2qG01OEF6-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sEsTtwDYVjWtcfYk2mIZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Q7_KlunWYmk2qG01OEF6-150" target="Q7_KlunWYmk2qG01OEF6-93" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sEsTtwDYVjWtcfYk2mIZ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Q7_KlunWYmk2qG01OEF6-150" target="Q7_KlunWYmk2qG01OEF6-91" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="245" y="145" />
-              <mxPoint x="245" y="298" />
-              <mxPoint x="210" y="298" />
-              <mxPoint x="210" y="455" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-150" value="" style="shape=lineEllipse;line=vertical;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="135" width="20" height="20" as="geometry" />
