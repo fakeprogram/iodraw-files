@@ -474,6 +474,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="oaOpCkF5nLg5VQvfGM1O-4" target="oaOpCkF5nLg5VQvfGM1O-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-4" value="FusionEncoder" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="170" y="115" width="120" height="40" as="geometry" />
         </mxCell>
@@ -518,7 +521,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-37" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="380" width="25" height="25" as="geometry" />
+          <mxGeometry x="380" y="410" width="25" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
