@@ -88,7 +88,7 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-91" value="K" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="290" y="410" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-93" value="K" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-93" value="V" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="290" y="360" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Q7_KlunWYmk2qG01OEF6-101" target="Q7_KlunWYmk2qG01OEF6-107" edge="1">
@@ -98,7 +98,7 @@
           <mxGeometry x="400" y="412.5" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-103" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="380" width="25" height="25" as="geometry" />
+          <mxGeometry x="350" y="440" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-104" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="470" y="355" width="100" height="110" as="geometry" />
