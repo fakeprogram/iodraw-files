@@ -563,7 +563,7 @@
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-91" value="梯度图序列" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="20" y="190" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-92" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;swimlaneLine=1;rounded=0;shadow=0;swimlaneFillColor=none;gradientColor=none;gradientDirection=south;fillColor=#D5E8D4;" vertex="1" parent="1">
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-92" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;swimlaneLine=1;rounded=0;shadow=0;swimlaneFillColor=none;gradientColor=none;gradientDirection=south;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-240" y="240" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=#D5E8D4;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneLine=1;" vertex="1" parent="oaOpCkF5nLg5VQvfGM1O-92">
