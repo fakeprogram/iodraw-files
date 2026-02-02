@@ -87,9 +87,6 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-91" value="K" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="290" y="410" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-93" value="V" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="290" y="360" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Q7_KlunWYmk2qG01OEF6-107" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425" y="425" as="sourcePoint" />
@@ -469,13 +466,6 @@
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oaOpCkF5nLg5VQvfGM1O-4" target="Q7_KlunWYmk2qG01OEF6-20">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="oaOpCkF5nLg5VQvfGM1O-4" target="Q7_KlunWYmk2qG01OEF6-93">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="250" y="375" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oaOpCkF5nLg5VQvfGM1O-4" target="Q7_KlunWYmk2qG01OEF6-91">
           <mxGeometry relative="1" as="geometry">
