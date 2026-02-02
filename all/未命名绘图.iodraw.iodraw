@@ -488,7 +488,7 @@
           <mxGeometry y="90" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-125" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-170" y="280" width="80" height="160" as="geometry" />
+          <mxGeometry x="80" y="120" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-116" value="" style="group" vertex="1" connectable="0" parent="oaOpCkF5nLg5VQvfGM1O-125">
           <mxGeometry width="40" height="160" as="geometry" />
