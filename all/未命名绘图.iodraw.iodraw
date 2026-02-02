@@ -186,7 +186,7 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oaOpCkF5nLg5VQvfGM1O-226" target="Q7_KlunWYmk2qG01OEF6-142" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="550" />
+              <mxPoint x="820" y="550" />
               <mxPoint x="120" y="550" />
             </Array>
             <mxPoint x="810" y="465" as="sourcePoint" />
@@ -537,7 +537,7 @@
           <mxGeometry x="820" y="400" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-222" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="800" y="350" width="40" height="140" as="geometry" />
+          <mxGeometry x="800" y="355" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-223" value="" style="group;rotation=0;" vertex="1" connectable="0" parent="oaOpCkF5nLg5VQvfGM1O-222">
           <mxGeometry width="40" height="140" as="geometry" />
