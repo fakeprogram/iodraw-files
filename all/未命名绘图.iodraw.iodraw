@@ -387,7 +387,7 @@
           <mxGeometry x="710" y="238" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J0NYMvSW9EHz46wMb6rE-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=3;strokeColor=#f2dbc5;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="830" y="-30" width="220" height="310" as="geometry" />
+          <mxGeometry x="660" y="-40" width="220" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-286" value="：卷积池化模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="760" y="238" width="110" height="30" as="geometry" />
@@ -528,6 +528,9 @@
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-41" value="PatchEmbedding" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="487.5" y="410" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q7_KlunWYmk2qG01OEF6-107" target="oaOpCkF5nLg5VQvfGM1O-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
