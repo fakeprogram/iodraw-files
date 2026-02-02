@@ -309,12 +309,12 @@
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-4" value="FusionEncoder" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="170" y="115" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="oaOpCkF5nLg5VQvfGM1O-19">
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.642;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="oaOpCkF5nLg5VQvfGM1O-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="200" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="150" y="200" />
-              <mxPoint x="150" y="400" />
+              <mxPoint x="150" y="403" />
             </Array>
           </mxGeometry>
         </mxCell>
