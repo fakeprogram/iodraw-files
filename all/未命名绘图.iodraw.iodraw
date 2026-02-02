@@ -617,33 +617,6 @@
             <mxRectangle width="20" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-178" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="250" y="-20" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-179" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="325" y="-20" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-180" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-20" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-181" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="250" y="55" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-182" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="325" y="55" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-183" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="400" y="55" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-184" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="250" y="130" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-185" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="325" y="130" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-186" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="400" y="130" width="50" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
