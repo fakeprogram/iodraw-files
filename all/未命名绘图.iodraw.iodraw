@@ -273,7 +273,7 @@
           <mxGeometry x="155" y="620" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-194" value="aggregate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
-          <mxGeometry x="570" y="610" width="80" height="30" as="geometry" />
+          <mxGeometry x="560" y="590" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-201" value="Conv" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="580" y="350" width="50" height="30" as="geometry" />
@@ -533,7 +533,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-32" value="" style="shape=mxgraph.signs.nature.sun_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="850" width="20" height="20" as="geometry" />
+          <mxGeometry x="550" y="630" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
