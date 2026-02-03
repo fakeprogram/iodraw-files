@@ -75,6 +75,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Gny3AL4-uaGuuaUg7ww5-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q7_KlunWYmk2qG01OEF6-91" target="Gny3AL4-uaGuuaUg7ww5-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-91" value="K" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#c2f1c8;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="250" y="410" width="30" height="30" as="geometry" />
         </mxCell>
@@ -565,6 +568,9 @@
         </mxCell>
         <mxCell id="Gny3AL4-uaGuuaUg7ww5-75" value="融合编码器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;fontStyle=0;fontSize=12;" vertex="1" parent="Gny3AL4-uaGuuaUg7ww5-76">
           <mxGeometry y="57" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gny3AL4-uaGuuaUg7ww5-77" value="K" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#c2f1c8;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="250" y="520" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
