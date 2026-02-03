@@ -140,14 +140,6 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-141" value="MLP" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0;strokeColor=#82b366;fillColor=#eaf1e9;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="530" width="60" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Q7_KlunWYmk2qG01OEF6-142" target="Q7_KlunWYmk2qG01OEF6-147" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="190" y="610" />
-              <mxPoint x="190" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-142" value="CP Block" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=none;fillColor=#d5e6e7;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="560" width="80" height="100" as="geometry" />
         </mxCell>
@@ -198,9 +190,6 @@
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-186" value="TP" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#9ebdea;fillColor=#fad7ac;strokeColor=#999999;strokeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="560" width="20" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-190" value="flatten" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="155" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-194" value="aggregate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="580" width="80" height="30" as="geometry" />
