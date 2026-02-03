@@ -578,8 +578,8 @@
         <mxCell id="Gny3AL4-uaGuuaUg7ww5-22" value="E&lt;sub&gt;s&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="550" y="400" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gny3AL4-uaGuuaUg7ww5-23" value="E&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;T&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="585" width="40" height="30" as="geometry" />
+        <mxCell id="Gny3AL4-uaGuuaUg7ww5-23" value="E&lt;span style=&quot;font-size: 8.33333px;&quot;&gt;t&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="195" y="585" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gny3AL4-uaGuuaUg7ww5-29" value="" style="group;glass=0;rounded=0;shadow=0;fillColor=none;strokeColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="390" y="560" width="98.09" height="110" as="geometry" />
