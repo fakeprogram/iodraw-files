@@ -272,8 +272,8 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-251" value="：时间位置嵌入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
           <mxGeometry x="80" y="169" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-252" value="：求军方误差" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
-          <mxGeometry x="75" y="206" width="100" height="30" as="geometry" />
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-252" value="：求均方误差" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
+          <mxGeometry x="80" y="206" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-253" value="TP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
           <mxGeometry x="50" y="248" width="40" height="30" as="geometry" />
