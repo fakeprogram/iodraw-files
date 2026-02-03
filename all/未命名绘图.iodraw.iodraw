@@ -239,9 +239,6 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-231" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
           <mxGeometry x="60" y="51.61290322580645" width="20" height="20.64516129032258" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-240" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;E&lt;/span&gt;&lt;sub style=&quot;font-weight: 700;&quot;&gt;s&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
-          <mxGeometry x="50" y="134.19354838709677" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-241" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;E&lt;/span&gt;&lt;span style=&quot;font-weight: 700; font-size: 10px;&quot;&gt;&lt;sub&gt;T&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
           <mxGeometry x="50" y="175.48387096774192" width="40" height="30" as="geometry" />
         </mxCell>
@@ -266,9 +263,6 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-248" value="：逐点相乘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
           <mxGeometry x="80" y="87.74193548387096" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-250" value="：空间位置嵌入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
-          <mxGeometry x="80" y="134.19354838709677" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-251" value="：时间位置嵌入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
           <mxGeometry x="80" y="174.4516129032258" width="110" height="30" as="geometry" />
         </mxCell>
@@ -286,6 +280,15 @@
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-286" value="：卷积池化模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
           <mxGeometry x="100" y="286.96774193548384" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gny3AL4-uaGuuaUg7ww5-33" value="" style="group" vertex="1" connectable="0" parent="oaOpCkF5nLg5VQvfGM1O-47">
+          <mxGeometry x="50" y="134.19354838709677" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-240" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;E&lt;/span&gt;&lt;sub style=&quot;font-weight: 700;&quot;&gt;s&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Gny3AL4-uaGuuaUg7ww5-33" vertex="1">
+          <mxGeometry width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-250" value="：空间位置嵌入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Gny3AL4-uaGuuaUg7ww5-33" vertex="1">
+          <mxGeometry x="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-48" value="V" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="343.9999999999999" y="180" width="30" height="30" as="geometry" />
