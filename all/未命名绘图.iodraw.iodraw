@@ -541,7 +541,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gny3AL4-uaGuuaUg7ww5-20" value="特征聚合模块" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0;strokeColor=#82b366;fillColor=#eaf1e9;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="565" width="120" height="90" as="geometry" />
+          <mxGeometry x="520" y="565" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Gny3AL4-uaGuuaUg7ww5-22" value="E&lt;sub&gt;s&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="550" y="400" width="40" height="30" as="geometry" />
