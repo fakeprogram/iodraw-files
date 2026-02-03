@@ -560,8 +560,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gny3AL4-uaGuuaUg7ww5-75" value="融合编码器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="230" width="90" height="30" as="geometry" />
+        <mxCell id="Gny3AL4-uaGuuaUg7ww5-75" value="融合编码器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-105" y="230" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
