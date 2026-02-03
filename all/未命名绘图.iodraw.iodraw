@@ -309,7 +309,7 @@
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-286" value="：视频长度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Gny3AL4-uaGuuaUg7ww5-40" vertex="1">
-          <mxGeometry x="20" width="80" height="30" as="geometry" />
+          <mxGeometry x="18" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gny3AL4-uaGuuaUg7ww5-42" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="oaOpCkF5nLg5VQvfGM1O-47">
           <mxGeometry x="50" y="251.99774193548387" width="30" height="30" as="geometry" />
@@ -321,7 +321,7 @@
           <mxGeometry x="50" y="279.9977419354839" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gny3AL4-uaGuuaUg7ww5-46" value="：patch维度数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="oaOpCkF5nLg5VQvfGM1O-47">
-          <mxGeometry x="60" y="279.9977419354839" width="100" height="30" as="geometry" />
+          <mxGeometry x="66" y="279.9977419354839" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-48" value="V" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="343.9999999999999" y="180" width="30" height="30" as="geometry" />
