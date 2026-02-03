@@ -254,8 +254,8 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-237" value="" style="ellipse;fillColor=strokeColor;html=1;container=0;" parent="Q7_KlunWYmk2qG01OEF6-243" vertex="1">
           <mxGeometry x="7.5" y="7.5" width="5" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-244" value="W" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
-          <mxGeometry x="50" y="208" width="30" height="30" as="geometry" />
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-244" value="MSE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
+          <mxGeometry x="40" y="208" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-245" value="：通道维度拼接" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
           <mxGeometry x="80" y="5" width="110" height="30" as="geometry" />
@@ -270,7 +270,7 @@
           <mxGeometry x="80" y="130" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-251" value="：时间位置嵌入" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
-          <mxGeometry x="75" y="169" width="110" height="30" as="geometry" />
+          <mxGeometry x="80" y="169" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-252" value="：时域权重矩阵" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
           <mxGeometry x="70" y="206" width="110" height="30" as="geometry" />
