@@ -236,8 +236,8 @@
         <mxCell id="Q7_KlunWYmk2qG01OEF6-285" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
           <mxGeometry x="70" y="286.96774193548384" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q7_KlunWYmk2qG01OEF6-286" value="：卷积池化模块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
-          <mxGeometry x="100" y="286.96774193548384" width="110" height="30" as="geometry" />
+        <mxCell id="Q7_KlunWYmk2qG01OEF6-286" value="：视频长度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="oaOpCkF5nLg5VQvfGM1O-47" vertex="1">
+          <mxGeometry x="115" y="286.96774193548384" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gny3AL4-uaGuuaUg7ww5-33" value="" style="group" vertex="1" connectable="0" parent="oaOpCkF5nLg5VQvfGM1O-47">
           <mxGeometry x="50" y="120.00354838709677" width="140" height="30" as="geometry" />
