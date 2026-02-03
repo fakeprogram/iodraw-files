@@ -195,9 +195,6 @@
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oaOpCkF5nLg5VQvfGM1O-4" target="oaOpCkF5nLg5VQvfGM1O-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-4" value="" style="verticalLabelPosition=middle;verticalAlign=middle;shape=trapezoid;perimeter=trapezoidPerimeter;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-90;fillColor=#e5f5e7;strokeColor=#82b366;textDirection=vertical-lr;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="115" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="oaOpCkF5nLg5VQvfGM1O-19" target="Q7_KlunWYmk2qG01OEF6-89" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -560,8 +557,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Gny3AL4-uaGuuaUg7ww5-75" value="融合编码器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;fontStyle=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="187" y="132" width="80" height="30" as="geometry" />
+        <mxCell id="Gny3AL4-uaGuuaUg7ww5-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="187" y="75" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-4" value="" style="verticalLabelPosition=middle;verticalAlign=middle;shape=trapezoid;perimeter=trapezoidPerimeter;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;rotation=-90;fillColor=#e5f5e7;strokeColor=#82b366;textDirection=vertical-lr;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" parent="Gny3AL4-uaGuuaUg7ww5-76" vertex="1">
+          <mxGeometry x="-17" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gny3AL4-uaGuuaUg7ww5-75" value="融合编码器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=vertical-lr;fontStyle=0;fontSize=12;" vertex="1" parent="Gny3AL4-uaGuuaUg7ww5-76">
+          <mxGeometry y="57" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
