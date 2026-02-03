@@ -559,7 +559,7 @@
           <mxGeometry x="35" y="80" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gny3AL4-uaGuuaUg7ww5-27" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Gny3AL4-uaGuuaUg7ww5-29">
-          <mxGeometry y="38" width="30" height="30" as="geometry" />
+          <mxGeometry y="60" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gny3AL4-uaGuuaUg7ww5-28" value="T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Gny3AL4-uaGuuaUg7ww5-29">
           <mxGeometry x="10" width="30" height="30" as="geometry" />
