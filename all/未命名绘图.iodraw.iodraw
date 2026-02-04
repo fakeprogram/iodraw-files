@@ -573,7 +573,7 @@
         <mxCell id="ImLEvoHByh9IsTUiSsfX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oaOpCkF5nLg5VQvfGM1O-4" target="Q7_KlunWYmk2qG01OEF6-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ImLEvoHByh9IsTUiSsfX-4" value="全局门控" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0;strokeColor=#82b366;fillColor=#eaf1e9;shadow=1;" vertex="1" parent="1">
+        <mxCell id="ImLEvoHByh9IsTUiSsfX-4" value="全局门控模块" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0;strokeColor=#82b366;fillColor=#eaf1e9;shadow=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1010" y="300" width="60" height="160" as="geometry" />
         </mxCell>
       </root>
