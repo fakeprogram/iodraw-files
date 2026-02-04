@@ -338,8 +338,8 @@
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-115" value="···" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=18;" parent="oaOpCkF5nLg5VQvfGM1O-116" vertex="1">
           <mxGeometry y="86" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oaOpCkF5nLg5VQvfGM1O-123" value="G&lt;sub style=&quot;font-size: 15px;&quot;&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=3;fontSize=15;" parent="oaOpCkF5nLg5VQvfGM1O-125" vertex="1">
-          <mxGeometry x="30" y="50" width="40" height="40" as="geometry" />
+        <mxCell id="oaOpCkF5nLg5VQvfGM1O-123" value="G&lt;sub style=&quot;font-size: 10px;&quot;&gt;i&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=3;fontSize=10;" parent="oaOpCkF5nLg5VQvfGM1O-125" vertex="1">
+          <mxGeometry x="35" y="55" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oaOpCkF5nLg5VQvfGM1O-128" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="80" y="-40" width="100" height="160" as="geometry" />
