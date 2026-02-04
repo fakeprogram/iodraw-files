@@ -574,7 +574,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ImLEvoHByh9IsTUiSsfX-4" value="全局门控模块" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0;strokeColor=#82b366;fillColor=#eaf1e9;shadow=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="300" width="60" height="160" as="geometry" />
+          <mxGeometry x="1030" y="300" width="40" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
