@@ -580,7 +580,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ImLEvoHByh9IsTUiSsfX-4" value="上下文门控模块" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0;strokeColor=#82b366;fillColor=#eaf1e9;shadow=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="360" y="380" width="40" height="80" as="geometry" />
+          <mxGeometry x="360" y="375" width="40" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ImLEvoHByh9IsTUiSsfX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="ImLEvoHByh9IsTUiSsfX-4">
           <mxGeometry relative="1" as="geometry">
