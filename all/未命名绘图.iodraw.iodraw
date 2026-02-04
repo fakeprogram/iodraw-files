@@ -127,7 +127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-139" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0;strokeColor=#999999;fillColor=#dce3e5;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="509" width="600" height="139" as="geometry" />
+          <mxGeometry x="70" y="509" width="560" height="139" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-141" value="MLP" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=0;strokeColor=#82b366;fillColor=#eaf1e9;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="509" width="60" height="139" as="geometry" />
@@ -139,7 +139,7 @@
           <mxGeometry x="160" y="125" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-186" value="TP" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#9ebdea;fillColor=#fad7ac;strokeColor=#999999;strokeWidth=0;" parent="1" vertex="1">
-          <mxGeometry x="640" y="539" width="20" height="100" as="geometry" />
+          <mxGeometry x="590" y="539" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Q7_KlunWYmk2qG01OEF6-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Q7_KlunWYmk2qG01OEF6-141" edge="1">
           <mxGeometry relative="1" as="geometry">
